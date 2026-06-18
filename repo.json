@@ -1,0 +1,9 @@
+{
+  "name": "Hungry",
+  "packageName": "com.skystream-nsfw",
+  "description": "Free Premium Porn Movies in Full Length from biggest Premium Porn Sites: MYLF, Brazzers, BLACKED, TeamSkeet and many more!",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/plugins.json"
+  ]
+}
