@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javenglish",
+  "name": "Jav English",
+  "version": 1,
+  "baseUrl": "https://javenglish.cc",
+  "description": "Jav English - Top-rated Japanese Adult Video with English subtitles",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "English Subbed", "JAV"]
+}

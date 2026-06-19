@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javriderid",
+  "name": "Javrider Id",
+  "version": 1,
+  "baseUrl": "https://javrider.id",
+  "description": "Javrider Id - Highly-categorized Indonesian JAV community streaming pool",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["id", "en"],
+  "categories": ["Adult", "Censored", "FC2", "Subtitle Id", "JAV"]
+}

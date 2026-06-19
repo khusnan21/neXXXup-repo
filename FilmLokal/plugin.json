@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.filmlokal",
+  "name": "FilmLokal",
+  "version": 1,
+  "baseUrl": "https://tv1.filmlokal.me",
+  "description": "FilmLokal - Indonesian provider for high-quality Movies, Series, and NSFW adult movies",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["id"],
+  "categories": ["Adult", "Movies", "Series"]
+}

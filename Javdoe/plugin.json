@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javdoe",
+  "name": "Javdoe",
+  "version": 1,
+  "baseUrl": "https://javdoe.sh",
+  "description": "Javdoe - Premium adult JAV site featuring subtitles, uncensored filters, and daily releases",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "English Subbed", "Uncensored", "JAV"]
+}
