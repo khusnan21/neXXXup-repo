@@ -1,0 +1,20 @@
+{
+  "name": "Koreaye",
+  "version": 1,
+  "description": "Koreaye plugin",
+  "author": "F",
+  "nameCheck": "Koreaye",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Koreaye",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://koreaye.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Koreaye/plugin.js"
+}

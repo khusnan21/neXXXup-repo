@@ -1,0 +1,20 @@
+{
+  "name": "OneJav",
+  "version": 1,
+  "description": "OneJav plugin",
+  "author": "F",
+  "nameCheck": "OneJav",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.OneJav",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://onejav.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/OneJav/plugin.js"
+}

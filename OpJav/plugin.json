@@ -1,0 +1,20 @@
+{
+  "name": "OpJav",
+  "version": 1,
+  "description": "OpJav plugin",
+  "author": "F",
+  "nameCheck": "OpJav",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.OpJav",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://opjav.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/OpJav/plugin.js"
+}

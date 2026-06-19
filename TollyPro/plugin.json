@@ -1,0 +1,20 @@
+{
+  "name": "TellyHD",
+  "version": 1,
+  "description": "TellyHD plugin",
+  "author": "F",
+  "nameCheck": "TellyHD",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TollyPro",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://tellyhd.media",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TollyPro/plugin.js"
+}

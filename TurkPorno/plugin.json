@@ -1,0 +1,20 @@
+{
+  "name": "TurkPorno",
+  "version": 1,
+  "description": "TurkPorno plugin",
+  "author": "F",
+  "nameCheck": "TurkPorno",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TurkPorno",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://turkporno.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TurkPorno/plugin.js"
+}

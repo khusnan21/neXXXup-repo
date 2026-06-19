@@ -1,0 +1,20 @@
+{
+  "name": "XPrimeHub",
+  "version": 1,
+  "description": "XPrimeHub plugin",
+  "author": "F",
+  "nameCheck": "XPrimeHub",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.XPrimeHub",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://xprimehub.vip",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/XPrimeHub/plugin.js"
+}

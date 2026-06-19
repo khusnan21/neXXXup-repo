@@ -1,0 +1,20 @@
+{
+  "name": "Uncut99",
+  "version": 1,
+  "description": "Uncut99 plugin",
+  "author": "F",
+  "nameCheck": "Uncut99",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Uncut99",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://uncut99.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Uncut99/plugin.js"
+}

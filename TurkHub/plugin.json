@@ -1,0 +1,20 @@
+{
+  "name": "TurkHub",
+  "version": 1,
+  "description": "TurkHub plugin",
+  "author": "F",
+  "nameCheck": "TurkHub",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TurkHub",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://turkhub.org",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TurkHub/plugin.js"
+}

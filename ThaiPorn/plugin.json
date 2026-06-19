@@ -1,0 +1,20 @@
+{
+  "name": "ThaiPorn",
+  "version": 1,
+  "description": "ThaiPorn plugin",
+  "author": "F",
+  "nameCheck": "ThaiPorn",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.ThaiPorn",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://xn--72c9aha0f8ad1l6bi.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/ThaiPorn/plugin.js"
+}

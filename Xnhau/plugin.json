@@ -1,0 +1,20 @@
+{
+  "name": "Xnhau",
+  "version": 1,
+  "description": "Xnhau plugin",
+  "author": "F",
+  "nameCheck": "xNhau",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.XnhauProvider",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://xnhau.im",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Xnhau/plugin.js"
+}

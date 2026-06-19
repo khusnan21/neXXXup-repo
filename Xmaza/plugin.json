@@ -1,0 +1,20 @@
+{
+  "name": "Xmaza",
+  "version": 1,
+  "description": "Xmaza plugin",
+  "author": "F",
+  "nameCheck": "Xmaza",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Xmaza",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://xmaza.net",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Xmaza/plugin.js"
+}

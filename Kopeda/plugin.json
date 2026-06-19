@@ -1,0 +1,20 @@
+{
+  "name": "Kopeda",
+  "version": 1,
+  "description": "Kopeda plugin",
+  "author": "F",
+  "nameCheck": "Kopeda",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Kopeda",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://www.kopeda.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Kopeda/plugin.js"
+}

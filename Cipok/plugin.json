@@ -1,0 +1,21 @@
+{
+  "name": "Cipok",
+  "version": 1,
+  "description": "Cipok plugin",
+  "author": "F",
+  "nameCheck": "Cipok",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Webcam.Cipok",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://cipok5.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "Adult",
+    "Livestreaming"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Cipok/plugin.js"
+}
