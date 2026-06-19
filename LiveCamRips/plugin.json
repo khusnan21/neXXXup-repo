@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.livecamrips",
+  "name": "LiveCamRips",
+  "version": 1,
+  "baseUrl": "https://livecamrips.to",
+  "description": "LiveCamRips leaked adult webcam videos archive for 18+",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult"]
+}

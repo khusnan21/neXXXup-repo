@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.cam4",
+  "name": "Cam4",
+  "version": 1,
+  "baseUrl": "https://www.cam4.com",
+  "description": "Cam4 live adult webcam streams for 18+",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult"]
+}
