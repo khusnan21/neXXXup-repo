@@ -1,5 +1,3 @@
-import { http_get } from "../utils/network.js";
-import { loadExtractor } from "../utils/extractors.js";
 
 const baseUrl = "https://en.xchina.co";
 

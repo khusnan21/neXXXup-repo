@@ -1,4 +1,3 @@
-import { http_get, http_post } from "../utils/network.js";
 
 const baseUrl = "https://www.kalite18.net";
 

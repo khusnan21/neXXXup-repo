@@ -1,4 +1,3 @@
-import { http_get } from "../utils/network.js";
 
 const baseUrl = "https://xn--72c9aha0f8ad1l6bi.com"; // url encoded for thai porn
 

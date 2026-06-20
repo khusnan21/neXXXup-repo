@@ -1,4 +1,3 @@
-import { http_get } from "../utils/network.js";
 
 const baseUrl = "https://ymaal.co";
 

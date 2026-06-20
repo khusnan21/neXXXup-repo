@@ -1,5 +1,3 @@
-import { http_get, http_post } from "../utils/network.js";
-import { loadExtractor } from "../utils/extractors.js";
 
 const baseUrl = "https://tellyhd.media";
 

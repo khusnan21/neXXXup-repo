@@ -1,6 +1,3 @@
-import { http_get } from "../utils/network.js";
-import { loadExtractor } from "../utils/extractors.js";
-import { base64Decode } from "../utils/base64.js";
 
 const baseUrl = "https://roshy.tv";
 
