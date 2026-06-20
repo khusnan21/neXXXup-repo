@@ -1,0 +1,20 @@
+{
+  "name": "Netflav",
+  "version": 1,
+  "description": "Netflav plugin",
+  "author": "F",
+  "nameCheck": "Netflav",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Netflav",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://netflav.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Netflav/plugin.js"
+}

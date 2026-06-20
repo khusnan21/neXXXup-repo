@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javseen",
+  "name": "Javseen",
+  "version": 1,
+  "baseUrl": "https://javseen.tv",
+  "description": "Javseen - Ultimate uncensored and amateur JAV provider with diverse tag categories",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "Uncensored", "Solowork", "Amateur", "Cosplay", "JAV"]
+}

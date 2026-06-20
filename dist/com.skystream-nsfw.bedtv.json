@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.bedtv",
+  "name": "Bedtb",
+  "version": 1,
+  "baseUrl": "https://www.badtv.net",
+  "description": "BedTv Site for 18+",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult"]
+}

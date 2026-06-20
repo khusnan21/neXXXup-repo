@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javhd",
+  "name": "JAV HD",
+  "version": 1,
+  "baseUrl": "https://javhd.today",
+  "description": "JAV HD - High Definition JAV movies with English subtitles and uncensored content",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "Uncensored", "JAV"]
+}

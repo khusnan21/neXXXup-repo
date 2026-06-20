@@ -1,0 +1,1726 @@
+[
+  {
+    "packageName": "com.skystream-nsfw.avtub",
+    "name": "AVTub",
+    "version": 1,
+    "baseUrl": "https://avpinay.com",
+    "description": "AVTub - Vivamax & Pinay adult movies provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "id"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.avtub.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.avtub.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.archivebate",
+    "name": "Archivebate",
+    "version": 1,
+    "baseUrl": "https://archivebate.com",
+    "description": "Archivebate - Webcams recorder and profiles provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.archivebate.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.archivebate.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.asianpinay",
+    "name": "Asianpinay",
+    "version": 1,
+    "baseUrl": "https://asianpinay.com",
+    "description": "Asianpinay - Asian & Pinay adult recordings and movies",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.asianpinay.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.asianpinay.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.bedtv",
+    "name": "Bedtb",
+    "version": 1,
+    "baseUrl": "https://www.badtv.net",
+    "description": "BedTv Site for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.bedtv.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.bedtv.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.beeg24",
+    "name": "Beeg24",
+    "version": 1,
+    "baseUrl": "https://beeg24.org",
+    "description": "Beeg24 Site for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.beeg24.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.beeg24.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.bondagevalley",
+    "name": "BondageValley",
+    "version": 1,
+    "baseUrl": "https://bondagevalley.com",
+    "description": "BondageValley - Premium Bondage & BDSM videos",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.bondagevalley.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.bondagevalley.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.cam4",
+    "name": "Cam4",
+    "version": 1,
+    "baseUrl": "https://www.cam4.com",
+    "description": "Cam4 live adult webcam streams for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.cam4.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.cam4.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.camwh",
+    "name": "CamWh",
+    "version": 1,
+    "baseUrl": "https://camwh.com",
+    "description": "CamWh Video Portal for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.camwh.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.camwh.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.camsoda",
+    "name": "Camsoda",
+    "version": 1,
+    "baseUrl": "https://www.camsoda.com",
+    "description": "Camsoda live adult webcam streams for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.camsoda.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.camsoda.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.chaturbate",
+    "name": "Chaturbate",
+    "version": 1,
+    "baseUrl": "https://chaturbate.com",
+    "description": "Chaturbate Live Webcam Platform for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.chaturbate.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.chaturbate.json"
+  },
+  {
+    "name": "Cipok",
+    "version": 1,
+    "description": "Cipok plugin",
+    "author": "F",
+    "nameCheck": "Cipok",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Webcam.Cipok",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://cipok5.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Cipok/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Webcam.Cipok.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Webcam.Cipok.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.coomer",
+    "name": "Coomer",
+    "version": 1,
+    "baseUrl": "https://coomer.st",
+    "description": "Coomer adult creator leak archive for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.coomer.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.coomer.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.cosxplay",
+    "name": "CosXPlay",
+    "version": 1,
+    "baseUrl": "https://cosxplay.com",
+    "description": "CosXPlay - Cosplay & Anime live-action NSFW videos",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.cosxplay.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.cosxplay.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.desixflix",
+    "name": "DesiXFlix",
+    "version": 1,
+    "baseUrl": "https://desixflix.work",
+    "description": "DesiXFlix - Indian & Desi premium adult videos and webseries",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.desixflix.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.desixflix.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.desisins",
+    "name": "Desisins",
+    "version": 1,
+    "baseUrl": "https://desisins.club",
+    "description": "Desisins - Premium Desi and Indian erotic movies and webseries",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.desisins.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.desisins.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.dgs",
+    "name": "DGS",
+    "version": 1,
+    "baseUrl": "https://deepgoretube.site",
+    "description": "DGS - Deep Gore Tube / Extreme NSFW and fetish videos",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.dgs.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.dgs.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.doeda",
+    "name": "Doeda",
+    "version": 1,
+    "baseUrl": "https://www.doeda.one",
+    "description": "Doeda - Dynamic Turkish NSFW video provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.doeda.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.doeda.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.doedaorijinal",
+    "name": "DoedaOrijinal",
+    "version": 1,
+    "baseUrl": "https://www.doeda.com",
+    "description": "DoedaOrijinal - The official Doeda adult video provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.doedaorijinal.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.doedaorijinal.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.filmlokal",
+    "name": "FilmLokal",
+    "version": 1,
+    "baseUrl": "https://tv1.filmlokal.me",
+    "description": "FilmLokal - Indonesian provider for high-quality Movies, Series, and NSFW adult movies",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "id"
+    ],
+    "categories": [
+      "Adult",
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.filmlokal.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.filmlokal.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.happy2hub",
+    "name": "Happy2hub",
+    "version": 1,
+    "baseUrl": "https://happy2hub.eu",
+    "description": "Happy2hub - Premium Adult Web Series and Movies provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "id"
+    ],
+    "categories": [
+      "Adult",
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.happy2hub.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.happy2hub.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.hotleak",
+    "name": "HotLeak",
+    "version": 1,
+    "baseUrl": "https://hotleak.vip",
+    "description": "HotLeak Creator Leak Portal for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.hotleak.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.hotleak.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.ifsalog",
+    "name": "IfsaLog",
+    "version": 1,
+    "baseUrl": "https://ifsalog4.club",
+    "description": "IfsaLog - Top Turkish NSFW local leaked amateur, onlyfans, and webcams provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Adult",
+      "Amateur",
+      "Turkish"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.ifsalog.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.ifsalog.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.internetchicks",
+    "name": "Internetchicks",
+    "version": 1,
+    "baseUrl": "https://internetchicks.com",
+    "description": "Internetchicks creators video archive for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.internetchicks.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.internetchicks.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.ixiporn",
+    "name": "ixiporn",
+    "version": 1,
+    "baseUrl": "https://ixiporn.org",
+    "description": "ixiporn - Premium South Asian, Ullu, and Indian local adult web series provider",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "hi"
+    ],
+    "categories": [
+      "Adult",
+      "Indian",
+      "Web Series"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.ixiporn.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.ixiporn.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javhd",
+    "name": "JAV HD",
+    "version": 1,
+    "baseUrl": "https://javhd.today",
+    "description": "JAV HD - High Definition JAV movies with English subtitles and uncensored content",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Uncensored",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javhd.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javhd.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javenglish",
+    "name": "Jav English",
+    "version": 1,
+    "baseUrl": "https://javenglish.cc",
+    "description": "Jav English - Top-rated Japanese Adult Video with English subtitles",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "English Subbed",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javenglish.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javenglish.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javfc",
+    "name": "JavFC",
+    "version": 1,
+    "baseUrl": "https://javfc2.xyz",
+    "description": "JavFC - Premium uncensored JAV film catalog and FC2 amateur video distributor",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Amateur",
+      "Uncensored",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javfc.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javfc.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javfree",
+    "name": "JavFree",
+    "version": 1,
+    "baseUrl": "https://javfree.sh",
+    "description": "JavFree - Free JAV streaming site containing complete censored and uncensored models",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Censored",
+      "Uncensored",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javfree.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javfree.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javguru",
+    "name": "JavGuru",
+    "version": 1,
+    "baseUrl": "https://jav.guru",
+    "description": "JavGuru - Premium Japanese Adult Video streaming. Offers Actresses Directory and robust search.",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "JAV",
+      "Idols",
+      "Censored",
+      "Uncensored"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javguru.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javguru.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javhey",
+    "name": "JavHey",
+    "version": 1,
+    "baseUrl": "https://javhey.com",
+    "description": "JavHey - Indonesian subbed Japanese adult movies with censorship categories and ratings",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "id"
+    ],
+    "categories": [
+      "Adult",
+      "Sub Indo",
+      "Censored",
+      "Uncensored"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javhey.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javhey.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javmost",
+    "name": "JavMost",
+    "version": 1,
+    "baseUrl": "https://www5.javmost.com",
+    "description": "JavMost - Japanese Adult Videos with customizable filters and quick updates",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "JAV",
+      "Censored",
+      "Uncensored"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javmost.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javmost.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javangel",
+    "name": "Javangel",
+    "version": 1,
+    "baseUrl": "https://jav-angel.net",
+    "description": "Javangel - Specialized database for Uncensored Leaked videos and English JAV translations",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Leaked",
+      "English Subbed",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javangel.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javangel.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javbangers",
+    "name": "Javbangers",
+    "version": 1,
+    "baseUrl": "https://www.javbangers.com",
+    "description": "Javbangers - Extensive English subbed Japanese Adult Video streaming library",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "English Subbed",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javbangers.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javbangers.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javdoe",
+    "name": "Javdoe",
+    "version": 1,
+    "baseUrl": "https://javdoe.sh",
+    "description": "Javdoe - Premium adult JAV site featuring subtitles, uncensored filters, and daily releases",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "English Subbed",
+      "Uncensored",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javdoe.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javdoe.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javgg",
+    "name": "Javgg",
+    "version": 1,
+    "baseUrl": "https://javgg.net",
+    "description": "Javgg - High quality premium JAV content featuring multiple categories and fast streaming server networks",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "English Subbed",
+      "Married Woman",
+      "Stepmother",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javgg.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javgg.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javriderid",
+    "name": "Javrider Id",
+    "version": 1,
+    "baseUrl": "https://javrider.id",
+    "description": "Javrider Id - Highly-categorized Indonesian JAV community streaming pool",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "id",
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Censored",
+      "FC2",
+      "Subtitle Id",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javriderid.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javriderid.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javseen",
+    "name": "Javseen",
+    "version": 1,
+    "baseUrl": "https://javseen.tv",
+    "description": "Javseen - Ultimate uncensored and amateur JAV provider with diverse tag categories",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Uncensored",
+      "Solowork",
+      "Amateur",
+      "Cosplay",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javseen.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javseen.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javsubindo",
+    "name": "Jav Sub Indo",
+    "version": 1,
+    "baseUrl": "https://javsubindo.life",
+    "description": "Jav Sub Indo - Prime destination for general JAV with Indonesian subtitle translations",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "id",
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Sub Indo",
+      "4K",
+      "Drama",
+      "Creampie",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javsubindo.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javsubindo.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javtiful",
+    "name": "Javtiful",
+    "version": 1,
+    "baseUrl": "https://javtiful.com",
+    "description": "Javtiful - Premium high quality JAV streaming portal with detailed categorization",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Chinese AV",
+      "Cosplay",
+      "Amateur",
+      "Big Tits",
+      "Milf",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javtiful.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javtiful.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.javx",
+    "name": "Javx",
+    "version": 1,
+    "baseUrl": "https://javx.org",
+    "description": "Javx - Premium JAV content collection categorized with popular filters and reliable host streaming",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "English Subbed",
+      "Popular",
+      "Milf",
+      "JAV"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javx.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.javx.json"
+  },
+  {
+    "name": "KRX18",
+    "version": 1,
+    "description": "KRX18 plugin",
+    "author": "F",
+    "nameCheck": "KRX18",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.KRX18",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://krx18.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/KRX18/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.KRX18.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.KRX18.json"
+  },
+  {
+    "name": "Kalite18",
+    "version": 1,
+    "description": "Kalite18 plugin",
+    "author": "F",
+    "nameCheck": "Kalite18",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Kalite18",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://www.kalite18.net",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Kalite18/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Kalite18.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Kalite18.json"
+  },
+  {
+    "name": "KingBokep",
+    "version": 1,
+    "description": "KingBokep plugin",
+    "author": "F",
+    "nameCheck": "KingBokep",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.KingBokep",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://kingbokep.tv",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/KingBokep/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.KingBokep.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.KingBokep.json"
+  },
+  {
+    "name": "Kopeda",
+    "version": 1,
+    "description": "Kopeda plugin",
+    "author": "F",
+    "nameCheck": "Kopeda",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Kopeda",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://www.kopeda.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Kopeda/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Kopeda.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Kopeda.json"
+  },
+  {
+    "name": "Koreanpornmovie",
+    "version": 1,
+    "description": "Koreanpornmovie plugin",
+    "author": "F",
+    "nameCheck": "Koreanpornmovie",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Koreanpornmovie",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://koreanpornmovie.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Koreanpornmovie/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Koreanpornmovie.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Koreanpornmovie.json"
+  },
+  {
+    "name": "Koreaye",
+    "version": 1,
+    "description": "Koreaye plugin",
+    "author": "F",
+    "nameCheck": "Koreaye",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Koreaye",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://koreaye.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Koreaye/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Koreaye.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Koreaye.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.livecamrips",
+    "name": "LiveCamRips",
+    "version": 1,
+    "baseUrl": "https://livecamrips.to",
+    "description": "LiveCamRips leaked adult webcam videos archive for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.livecamrips.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.livecamrips.json"
+  },
+  {
+    "name": "Mangoporn",
+    "version": 1,
+    "description": "Mangoporn plugin",
+    "author": "F",
+    "nameCheck": "Mangoporn",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Mangoporn",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://mangoporn.net",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Mangoporn/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Mangoporn.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Mangoporn.json"
+  },
+  {
+    "name": "MissAV",
+    "version": 1,
+    "description": "MissAV plugin",
+    "author": "F",
+    "nameCheck": "MissAV",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.MissAV",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://missav.live",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/MissAV/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.MissAV.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.MissAV.json"
+  },
+  {
+    "name": "Netflav",
+    "version": 1,
+    "description": "Netflav plugin",
+    "author": "F",
+    "nameCheck": "Netflav",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Netflav",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://netflav.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Netflav/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Netflav.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Netflav.json"
+  },
+  {
+    "name": "Nonton01",
+    "version": 1,
+    "description": "Nonton01 plugin",
+    "author": "F",
+    "nameCheck": "Nonton01",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Nonton01",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://01ntn.cc",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Nonton01/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Nonton01.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Nonton01.json"
+  },
+  {
+    "name": "OneJav",
+    "version": 1,
+    "description": "OneJav plugin",
+    "author": "F",
+    "nameCheck": "OneJav",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.OneJav",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://onejav.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/OneJav/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.OneJav.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.OneJav.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.onlyjerk",
+    "name": "Onlyjerk",
+    "version": 1,
+    "baseUrl": "https://onlyjerk.net",
+    "description": "Onlyjerk Creator Video Feed for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.onlyjerk.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.onlyjerk.json"
+  },
+  {
+    "name": "OpJav",
+    "version": 1,
+    "description": "OpJav plugin",
+    "author": "F",
+    "nameCheck": "OpJav",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.OpJav",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://opjav.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/OpJav/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.OpJav.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.OpJav.json"
+  },
+  {
+    "name": "OppaiStream",
+    "version": 1,
+    "description": "OppaiStream plugin",
+    "author": "F",
+    "nameCheck": "OppaiStream",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.OppaiStream",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://oppai.stream",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/OppaiStream/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.OppaiStream.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.OppaiStream.json"
+  },
+  {
+    "name": "PasarBokep",
+    "version": 1,
+    "description": "PasarBokep plugin",
+    "author": "F",
+    "nameCheck": "PasarBokep",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.PasarBokep",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://pasarbokep.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/PasarBokep/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.PasarBokep.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.PasarBokep.json"
+  },
+  {
+    "name": "Pinkueiga",
+    "version": 1,
+    "description": "Pinkueiga plugin",
+    "author": "F",
+    "nameCheck": "Pinkueiga",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Pinkueiga",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://pinkueiga.net",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Pinkueiga/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Pinkueiga.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Pinkueiga.json"
+  },
+  {
+    "name": "Podjav",
+    "version": 1,
+    "description": "Podjav plugin",
+    "author": "F",
+    "nameCheck": "PODJAV",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Podjav",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://podjav.tv",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Podjav/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Podjav.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Podjav.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.porn4fans",
+    "name": "Porn4fans",
+    "version": 1,
+    "baseUrl": "https://www.porn4fans.com",
+    "description": "Porn4fans OnlyFans leaked video portal for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult",
+      "Livestreaming"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.porn4fans.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.porn4fans.json"
+  },
+  {
+    "name": "RoshyTv",
+    "version": 1,
+    "description": "RoshyTv plugin",
+    "author": "F",
+    "nameCheck": "RoshyTv",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.RoshyTv",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://roshy.tv",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/RoshyTv/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.RoshyTv.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.RoshyTv.json"
+  },
+  {
+    "name": "SexAlArab",
+    "version": 1,
+    "description": "SexAlArab plugin",
+    "author": "F",
+    "nameCheck": "SexAlArab",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.SexAlArab",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://sexalarab.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/SexAlArab/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.SexAlArab.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.SexAlArab.json"
+  },
+  {
+    "name": "Sukebei",
+    "version": 1,
+    "description": "Sukebei plugin",
+    "author": "F",
+    "nameCheck": "Sukebei",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Sukebei",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://sukebei.nyaa.si",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Sukebei/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Sukebei.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Sukebei.json"
+  },
+  {
+    "name": "Sulasok",
+    "version": 1,
+    "description": "Sulasok plugin",
+    "author": "F",
+    "nameCheck": "Sulasok",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Sulasok",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://sulasok.uno",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Sulasok/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Sulasok.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Sulasok.json"
+  },
+  {
+    "name": "SuperJav",
+    "version": 1,
+    "description": "SuperJav plugin",
+    "author": "F",
+    "nameCheck": "SupJav",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.SuperJav",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://supjav.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/SuperJav/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.SuperJav.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.SuperJav.json"
+  },
+  {
+    "name": "ThaiPorn",
+    "version": 1,
+    "description": "ThaiPorn plugin",
+    "author": "F",
+    "nameCheck": "ThaiPorn",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.ThaiPorn",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://xn--72c9aha0f8ad1l6bi.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/ThaiPorn/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.ThaiPorn.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.ThaiPorn.json"
+  },
+  {
+    "name": "TellyHD",
+    "version": 1,
+    "description": "TellyHD plugin",
+    "author": "F",
+    "nameCheck": "TellyHD",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TollyPro",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://tellyhd.media",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TollyPro/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TollyPro.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TollyPro.json"
+  },
+  {
+    "name": "TurkHub",
+    "version": 1,
+    "description": "TurkHub plugin",
+    "author": "F",
+    "nameCheck": "TurkHub",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TurkHub",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://turkhub.org",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TurkHub/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TurkHub.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TurkHub.json"
+  },
+  {
+    "name": "TurkIfsalar",
+    "version": 1,
+    "description": "TurkIfsalar plugin",
+    "author": "F",
+    "nameCheck": "TurkIfsalar",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TurkIfsalar",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://turkifsalar.net",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TurkIfsalar/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TurkIfsalar.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TurkIfsalar.json"
+  },
+  {
+    "name": "TurkPorno",
+    "version": 1,
+    "description": "TurkPorno plugin",
+    "author": "F",
+    "nameCheck": "TurkPorno",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.TurkPorno",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://turkporno.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/TurkPorno/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TurkPorno.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.TurkPorno.json"
+  },
+  {
+    "name": "Uncut99",
+    "version": 1,
+    "description": "Uncut99 plugin",
+    "author": "F",
+    "nameCheck": "Uncut99",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Uncut99",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://uncut99.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Uncut99/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Uncut99.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Uncut99.json"
+  },
+  {
+    "name": "UncutMaza",
+    "version": 1,
+    "description": "UncutMaza plugin",
+    "author": "F",
+    "nameCheck": "UncutMaza",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.UncutMaza",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://uncutmaza.cc",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/UncutMaza/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.UncutMaza.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.UncutMaza.json"
+  },
+  {
+    "name": "Vlxx",
+    "version": 1,
+    "description": "Vlxx plugin",
+    "author": "F",
+    "nameCheck": "Vlxx",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Vlxx",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://vlxx.moi",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Vlxx/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Vlxx.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Vlxx.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.wow",
+    "name": "Wow",
+    "version": 1,
+    "baseUrl": "https://www.wow.xxx",
+    "description": "Wow Site for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.wow.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.wow.json"
+  },
+  {
+    "name": "Wumaobi",
+    "version": 1,
+    "description": "Wumaobi plugin",
+    "author": "F",
+    "nameCheck": "Wumaobi",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Wumaobi",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://wumaobi.com",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Wumaobi/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Wumaobi.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Wumaobi.json"
+  },
+  {
+    "name": "XChina",
+    "version": 1,
+    "description": "XChina plugin",
+    "author": "F",
+    "nameCheck": "XChina",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.XChina",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://en.xchina.co",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/XChina/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.XChina.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.XChina.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.xmoviesforyou",
+    "name": "Xmoviesforyou",
+    "version": 1,
+    "baseUrl": "https://xmoviesforyou.com",
+    "description": "Xmoviesforyou Site for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.xmoviesforyou.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.xmoviesforyou.json"
+  },
+  {
+    "name": "XPrimeHub",
+    "version": 1,
+    "description": "XPrimeHub plugin",
+    "author": "F",
+    "nameCheck": "XPrimeHub",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.XPrimeHub",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://xprimehub.vip",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/XPrimeHub/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.XPrimeHub.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.XPrimeHub.json"
+  },
+  {
+    "name": "Xmaza",
+    "version": 1,
+    "description": "Xmaza plugin",
+    "author": "F",
+    "nameCheck": "Xmaza",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Xmaza",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://xmaza.net",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Xmaza/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Xmaza.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.Xmaza.json"
+  },
+  {
+    "name": "Xnhau",
+    "version": 1,
+    "description": "Xnhau plugin",
+    "author": "F",
+    "nameCheck": "xNhau",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.XnhauProvider",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://xnhau.im",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Xnhau/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.XnhauProvider.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.XnhauProvider.json"
+  },
+  {
+    "name": "YMaal",
+    "version": 1,
+    "description": "YMaal plugin",
+    "author": "F",
+    "nameCheck": "YMaal",
+    "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.YMaal",
+    "authors": [
+      "F"
+    ],
+    "baseUrl": "https://ymaal.co",
+    "isAdult": true,
+    "languages": [
+      "Asian"
+    ],
+    "categories": [
+      "NSFW"
+    ],
+    "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/YMaal/plugin.js",
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.YMaal.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.lagradost.cloudstream3.AdultProvider.Asian.YMaal.json"
+  },
+  {
+    "packageName": "com.skystream-nsfw.youperv",
+    "name": "Youperv",
+    "version": 1,
+    "baseUrl": "https://youperv.com",
+    "description": "Youperv Site for 18+",
+    "isAdult": true,
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Adult"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.youperv.js",
+    "jsonUrl": "https://raw.githubusercontent.com/techmind09/skystream-nsfw/repo/dist/com.skystream-nsfw.youperv.json"
+  }
+]

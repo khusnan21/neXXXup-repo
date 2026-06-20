@@ -1,0 +1,20 @@
+{
+  "name": "Wumaobi",
+  "version": 1,
+  "description": "Wumaobi plugin",
+  "author": "F",
+  "nameCheck": "Wumaobi",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Wumaobi",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://wumaobi.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Wumaobi/plugin.js"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Vlxx",
+  "version": 1,
+  "description": "Vlxx plugin",
+  "author": "F",
+  "nameCheck": "Vlxx",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Vlxx",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://vlxx.moi",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Vlxx/plugin.js"
+}

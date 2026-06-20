@@ -1,0 +1,20 @@
+{
+  "name": "Pinkueiga",
+  "version": 1,
+  "description": "Pinkueiga plugin",
+  "author": "F",
+  "nameCheck": "Pinkueiga",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Pinkueiga",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://pinkueiga.net",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Pinkueiga/plugin.js"
+}

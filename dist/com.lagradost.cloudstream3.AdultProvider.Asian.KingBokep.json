@@ -1,0 +1,20 @@
+{
+  "name": "KingBokep",
+  "version": 1,
+  "description": "KingBokep plugin",
+  "author": "F",
+  "nameCheck": "KingBokep",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.KingBokep",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://kingbokep.tv",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/KingBokep/plugin.js"
+}

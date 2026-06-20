@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.doedaorijinal",
+  "name": "DoedaOrijinal",
+  "version": 1,
+  "baseUrl": "https://www.doeda.com",
+  "description": "DoedaOrijinal - The official Doeda adult video provider",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["tr"],
+  "categories": ["Adult"]
+}

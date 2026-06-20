@@ -1,0 +1,20 @@
+{
+  "name": "Mangoporn",
+  "version": 1,
+  "description": "Mangoporn plugin",
+  "author": "F",
+  "nameCheck": "Mangoporn",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Mangoporn",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://mangoporn.net",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Mangoporn/plugin.js"
+}

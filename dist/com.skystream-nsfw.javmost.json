@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javmost",
+  "name": "JavMost",
+  "version": 1,
+  "baseUrl": "https://www5.javmost.com",
+  "description": "JavMost - Japanese Adult Videos with customizable filters and quick updates",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "JAV", "Censored", "Uncensored"]
+}

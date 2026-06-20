@@ -1,0 +1,20 @@
+{
+  "name": "SexAlArab",
+  "version": 1,
+  "description": "SexAlArab plugin",
+  "author": "F",
+  "nameCheck": "SexAlArab",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.SexAlArab",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://sexalarab.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/SexAlArab/plugin.js"
+}

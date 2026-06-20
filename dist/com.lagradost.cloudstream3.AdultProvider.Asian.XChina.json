@@ -1,0 +1,20 @@
+{
+  "name": "XChina",
+  "version": 1,
+  "description": "XChina plugin",
+  "author": "F",
+  "nameCheck": "XChina",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.XChina",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://en.xchina.co",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/XChina/plugin.js"
+}

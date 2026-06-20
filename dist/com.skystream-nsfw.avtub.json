@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.avtub",
+  "name": "AVTub",
+  "version": 1,
+  "baseUrl": "https://avpinay.com",
+  "description": "AVTub - Vivamax & Pinay adult movies provider",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["id"],
+  "categories": ["Adult"]
+}

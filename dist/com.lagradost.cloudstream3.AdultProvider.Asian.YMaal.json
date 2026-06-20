@@ -1,0 +1,20 @@
+{
+  "name": "YMaal",
+  "version": 1,
+  "description": "YMaal plugin",
+  "author": "F",
+  "nameCheck": "YMaal",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.YMaal",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://ymaal.co",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/YMaal/plugin.js"
+}

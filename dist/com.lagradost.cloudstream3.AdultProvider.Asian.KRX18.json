@@ -1,0 +1,20 @@
+{
+  "name": "KRX18",
+  "version": 1,
+  "description": "KRX18 plugin",
+  "author": "F",
+  "nameCheck": "KRX18",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.KRX18",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://krx18.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/KRX18/plugin.js"
+}

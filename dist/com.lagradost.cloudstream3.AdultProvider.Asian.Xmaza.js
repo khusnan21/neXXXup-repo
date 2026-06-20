@@ -1,4 +1,6 @@
 
+import { http_get } from "../utils/network.js";
+
 const baseUrl = "https://xmaza.net";
 
 function getHeaders() {
@@ -9,29 +11,27 @@ function getHeaders() {
 }
 
 export async function getHome() {
-    return {
-        "Home": await getPage(baseUrl + "/page/1"),
-        "Ullu": await getPage(baseUrl + "/ullu-c14/page/1"),
-        "Triflicks": await getPage(baseUrl + "/triflicks/page/1"),
-        "PrimePlay": await getPage(baseUrl + "/primeplay-c1/page/1"),
-        "Kooku": await getPage(baseUrl + "/kooku/page/1"),
-        "Atragii": await getPage(baseUrl + "/atragii-c8/page/1"),
-        "Rabbit": await getPage(baseUrl + "/rabbit/page/1"),
-        "Hunters": await getPage(baseUrl + "/hunters/page/1")
-    };
+    return [
+        { title: "Home", list: await getPage(baseUrl + "/page/1") },
+        { title: "Ullu", list: await getPage(baseUrl + "/ullu-c14/page/1") },
+        { title: "Triflicks", list: await getPage(baseUrl + "/triflicks/page/1") },
+        { title: "PrimePlay", list: await getPage(baseUrl + "/primeplay-c1/page/1") },
+        { title: "Kooku", list: await getPage(baseUrl + "/kooku/page/1") },
+        { title: "Atragii", list: await getPage(baseUrl + "/atragii-c8/page/1") },
+        { title: "Rabbit", list: await getPage(baseUrl + "/rabbit/page/1") },
+        { title: "Hunters", list: await getPage(baseUrl + "/hunters/page/1") }
+    ];
 }
 
 async function getPage(url) {
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
-    return parseList(html);
+    return parseList(res);
 }
 
 export async function search(query) {
     const url = `${baseUrl}?s=${encodeURIComponent(query)}`;
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
-    return parseList(html);
+    return parseList(res);
 }
 
 function parseList(html) {
@@ -66,16 +66,15 @@ function parseList(html) {
 
 export async function load(url) {
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
     
     let title = url;
-    const titleMatch = html.match(/<meta property=["']og:title["'] content=["']([^"']+)["']/i);
+    const titleMatch = res.match(/<meta property=["']og:title["'] content=["']([^"']+)["']/i);
     if(titleMatch) {
         title = titleMatch[1].replace(/<[^>]+>/g, '').trim();
     }
     
     let poster = "";
-    const posterMatch = html.match(/<meta property=["']og:image["'] content=["']([^"']+)["']/i);
+    const posterMatch = res.match(/<meta property=["']og:image["'] content=["']([^"']+)["']/i);
     if(posterMatch) poster = posterMatch[1];
     
     return {
@@ -89,10 +88,9 @@ export async function load(url) {
 
 export async function loadLinks(url) {
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
     const results = [];
     
-    const sourceMatch = html.match(/<video[^>]*id=["']my-video["'][^>]*>[\s\S]*?<source[^>]+src=["']([^"']+)["']/i) || html.match(/<video[^>]*>[\s\S]*?<source[^>]+src=["']([^"']+)["']/i);
+    const sourceMatch = res.match(/<video[^>]*id=["']my-video["'][^>]*>[\s\S]*?<source[^>]+src=["']([^"']+)["']/i) || res.match(/<video[^>]*>[\s\S]*?<source[^>]+src=["']([^"']+)["']/i);
     if(sourceMatch) {
          let videoSource = sourceMatch[1];
          if(!videoSource.startsWith("http")) videoSource = baseUrl + videoSource;

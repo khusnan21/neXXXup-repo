@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.hotleak",
+  "name": "HotLeak",
+  "version": 1,
+  "baseUrl": "https://hotleak.vip",
+  "description": "HotLeak Creator Leak Portal for 18+",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "Livestreaming"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kalite18",
+  "version": 1,
+  "description": "Kalite18 plugin",
+  "author": "F",
+  "nameCheck": "Kalite18",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Kalite18",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://www.kalite18.net",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Kalite18/plugin.js"
+}

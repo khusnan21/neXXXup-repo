@@ -1,0 +1,20 @@
+{
+  "name": "PasarBokep",
+  "version": 1,
+  "description": "PasarBokep plugin",
+  "author": "F",
+  "nameCheck": "PasarBokep",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.PasarBokep",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://pasarbokep.com",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/PasarBokep/plugin.js"
+}

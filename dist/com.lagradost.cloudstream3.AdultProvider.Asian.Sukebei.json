@@ -1,0 +1,20 @@
+{
+  "name": "Sukebei",
+  "version": 1,
+  "description": "Sukebei plugin",
+  "author": "F",
+  "nameCheck": "Sukebei",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.Sukebei",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://sukebei.nyaa.si",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/Sukebei/plugin.js"
+}

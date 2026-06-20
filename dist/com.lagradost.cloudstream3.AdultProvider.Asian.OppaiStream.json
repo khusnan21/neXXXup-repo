@@ -1,0 +1,20 @@
+{
+  "name": "OppaiStream",
+  "version": 1,
+  "description": "OppaiStream plugin",
+  "author": "F",
+  "nameCheck": "OppaiStream",
+  "packageName": "com.lagradost.cloudstream3.AdultProvider.Asian.OppaiStream",
+  "authors": [
+    "F"
+  ],
+  "baseUrl": "https://oppai.stream",
+  "isAdult": true,
+  "languages": [
+    "Asian"
+  ],
+  "categories": [
+    "NSFW"
+  ],
+  "pluginUrl": "https://raw.githubusercontent.com/CakesTwix/neXXXup-repo/main/OppaiStream/plugin.js"
+}

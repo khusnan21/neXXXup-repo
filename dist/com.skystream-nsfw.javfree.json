@@ -1,0 +1,11 @@
+{
+  "packageName": "com.skystream-nsfw.javfree",
+  "name": "JavFree",
+  "version": 1,
+  "baseUrl": "https://javfree.sh",
+  "description": "JavFree - Free JAV streaming site containing complete censored and uncensored models",
+  "isAdult": true,
+  "authors": ["techmind09"],
+  "languages": ["en"],
+  "categories": ["Adult", "Censored", "Uncensored", "JAV"]
+}

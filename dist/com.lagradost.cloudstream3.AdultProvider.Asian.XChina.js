@@ -1,4 +1,6 @@
 
+import { http_get } from "../utils/network.js";
+
 const baseUrl = "https://en.xchina.co";
 
 function getHeaders() {
@@ -9,27 +11,25 @@ function getHeaders() {
 }
 
 export async function getHome() {
-    return {
-        "Censored AV (6853)": await getPage(baseUrl + "/videos/series-6395aba3deb74.html"),
-        "Model Media (3558)": await getPage(baseUrl + "/videos/series-5f904550b8fcc.html"),
-        "Uncensored AV (2356)": await getPage(baseUrl + "/videos/series-6395ab7fee104.html"),
-        "Independent Creators": await getPage(baseUrl + "/videos/series-61bf6e439fed6.html"),
-        "Pans Videos": await getPage(baseUrl + "/videos/series-63963186ae145.html"),
-        "TXVLOG": await getPage(baseUrl + "/videos/series-61014080dbfde.html")
-    };
+    return [
+        { title: "Censored AV (6853)", list: await getPage(baseUrl + "/videos/series-6395aba3deb74.html") },
+        { title: "Model Media (3558)", list: await getPage(baseUrl + "/videos/series-5f904550b8fcc.html") },
+        { title: "Uncensored AV (2356)", list: await getPage(baseUrl + "/videos/series-6395ab7fee104.html") },
+        { title: "Independent Creators", list: await getPage(baseUrl + "/videos/series-61bf6e439fed6.html") },
+        { title: "Pans Videos", list: await getPage(baseUrl + "/videos/series-63963186ae145.html") },
+        { title: "TXVLOG", list: await getPage(baseUrl + "/videos/series-61014080dbfde.html") }
+    ];
 }
 
 async function getPage(url) {
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
-    return parseList(html);
+    return parseList(res);
 }
 
 export async function search(query) {
     const url = `${baseUrl}/videos/keyword-${encodeURIComponent(query)}.html`;
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
-    return parseList(html);
+    return parseList(res);
 }
 
 function parseList(html) {
@@ -60,16 +60,15 @@ function parseList(html) {
 
 export async function load(url) {
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
     
     let title = url;
-    const titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+    const titleMatch = res.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
     if(titleMatch) {
         title = titleMatch[1].replace(/<[^>]+>/g, '').trim();
     }
     
     let poster = "";
-    const posterMatch = html.match(/<meta property=["']og:image["'] content=["']([^"']+)["']/i);
+    const posterMatch = res.match(/<meta property=["']og:image["'] content=["']([^"']+)["']/i);
     if(posterMatch) poster = posterMatch[1];
     
     return {
@@ -83,9 +82,8 @@ export async function load(url) {
 
 export async function loadLinks(url) {
     const res = await http_get(url, getHeaders());
-    const html = typeof res === 'string' ? res : (res.body || "");
     
-    const m3u8Match = html.match(/src:\s*['"](https?:\/\/video\.xchina\.download\/m3u8\/.*?\.m3u8.*?)['"]/i);
+    const m3u8Match = res.match(/src:\s*['"](https?:\/\/video\.xchina\.download\/m3u8\/.*?\.m3u8.*?)['"]/i);
     if(m3u8Match) {
          return [{
              url: m3u8Match[1],
